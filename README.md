@@ -9,5 +9,5 @@ composer require spryker-feature/push-notification
 ```
 
 ## Optional modules
-- [PushNotificationExtension ^1.0.0](https://github.com/spryker/push-notification-extension) (Extension)
+- [PushNotificationExtension ^1.1.0](https://github.com/spryker/push-notification-extension) (Extension)
 - [PushNotificationsBackendApi ^1.0.0](https://github.com/spryker/push-notifications-backend-api) (Glue Backend)
