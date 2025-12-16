@@ -7,12 +7,12 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/push-notification": "^1.1.0",
+        "spryker/push-notification": "^1.2.0",
         "spryker/push-notification-web-push-php": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202512.x-dev"
         }
     }
 }
